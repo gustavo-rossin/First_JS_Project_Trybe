@@ -21,3 +21,7 @@ body {
 #licoes_aprendidas, #licoes_a_aprender {
     color: rgb(4, 0, 255);
 }
+
+#rodape {
+    text-align: center;
+}
