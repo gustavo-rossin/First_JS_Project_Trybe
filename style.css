@@ -7,7 +7,7 @@ body {
 }
 
 #cabecalho {
-    background-color: blueviolet;
+    background-color: black;
     top: 0px;
     position: fixed;
 }
@@ -24,4 +24,10 @@ body {
 
 #rodape {
     text-align: center;
+}
+
+.img_footer {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
 }
