@@ -14,5 +14,10 @@ body {
 
 #minha_foto {
    width: 200px;
+   height: 200px;
    border-radius: 50%;
+}
+
+#licoes_aprendidas, #licoes_a_aprender {
+    color: rgb(4, 0, 255);
 }
