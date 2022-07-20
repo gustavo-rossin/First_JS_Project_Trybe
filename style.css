@@ -3,10 +3,12 @@ body {
   font-family: monospace;
   line-height: 18px;
   color: rgba(26, 17, 17, 0.815);
+
 }
 
 #titulo {
   color: red;
+  font-size: 40px;
 }
 
 #cabecalho {
