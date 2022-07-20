@@ -26,7 +26,7 @@ body {
   border-style: dashed;
 }
 
-#licoes_aprendidas, #licoes_a_aprender {
+#licoes_aprendidas , #licoes_a_aprender {
   color: rgb(4, 0, 255);
 }
 
@@ -73,8 +73,8 @@ body {
   background-color: rgb(183, 219, 21);
 }
 
-.table, th, td {
-    border-style: dashed;
-    border-color: black;
-    border-width: 2px;
+.table , th , td {
+  border-color: black;
+  border-width: 2px;
+  border-style: dashed;
 }
