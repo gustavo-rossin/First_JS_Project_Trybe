@@ -72,3 +72,9 @@ body {
   padding-right: 5%;
   background-color: rgb(183, 219, 21);
 }
+
+.table, th, td {
+    border-style:dashed;
+    border-color: black;
+    border-width: 2px;
+}
