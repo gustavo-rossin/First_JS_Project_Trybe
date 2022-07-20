@@ -1,6 +1,8 @@
 body {
   background-color: rgb(253, 251, 251);
   font-family: monospace;
+  line-height: 18px;
+  color: rgba(26, 17, 17, 0.815);
 }
 
 #titulo {
@@ -22,8 +24,7 @@ body {
   border-style: dashed;
 }
 
-#licoes_aprendidas,
-#licoes_a_aprender {
+#licoes_aprendidas, #licoes_a_aprender {
   color: rgb(4, 0, 255);
 }
 
@@ -49,7 +50,7 @@ body {
   width: 300px;
 }
 
-#aside {
+.lado-direito {
   display: inline;
   width: 25%;
   position: relative;
@@ -61,7 +62,7 @@ body {
   padding-right: 5%;
 }
 
-#article {
+.lado-esquerdo {
   display: inline;
   width: auto;
   float: left;
